@@ -9,8 +9,8 @@ Bienvenido a mi rincón de GitHub!
 - 🎓 Estudiante del Doble Grado en Ingeniería Informática y Matemáticas en la Universidad de Murcia.  
 
 ## 📊 Estadísticas de GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jorgelopezzz&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelopezzz&layout=compact&theme=radical)  
 
 ## 📫 Contacto  
 Si quieres charlar sobre código, tecnología o simplemente decir hola, puedes escribirme a:  
