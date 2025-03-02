@@ -18,7 +18,8 @@ Bienvenido a mi rincón de GitHub!
 ## Contacto  
 Si quieres charlar sobre código, tecnología o simplemente decir hola, puedes escribirme a:  
 📩 jorgelopez.2.suarez@gmail.com
+
 También puedes encontrarme en LinkedIn:
-[Mi perfil de LinkedIn](https://www.linkedin.com/in/jorge-l%C3%B3pez-su%C3%A1rez-6208682b1/)
+💼 [Mi LinkedIn](https://www.linkedin.com/in/jorge-l%C3%B3pez-su%C3%A1rez-6208682b1/)
 
 
