@@ -19,7 +19,6 @@ Bienvenido a mi rincón de GitHub!
 Si quieres charlar sobre código, tecnología o simplemente decir hola, puedes escribirme a:  
 📩 jorgelopez.2.suarez@gmail.com
 También puedes encontrarme en LinkedIn:
-<p align="left">
-<a href="[https://linkedin.com/in/jorge lópez suárez](https://www.linkedin.com/in/jorge-l%C3%B3pez-su%C3%A1rez-6208682b1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge lópez suárez" height="30" width="40" /></a>
-</p>
+[Mi perfil de LinkedIn](https://www.linkedin.com/in/jorge-l%C3%B3pez-su%C3%A1rez-6208682b1/)
+
 
