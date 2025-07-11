@@ -12,9 +12,4 @@ Herramienta para analizar recorridos outdoor. Apliqué herramientas de análisis
 Desarrollo integral de una plataforma software de mensajería, con persistencia de contactos, grupos y conversaciones. En colaboración con [@a-egealopez](https://github.com/a-egealopez).
 
 ## Contacto  
-
-Puedes encontrarme en LinkedIn:
-
-[Mi LinkedIn](https://www.linkedin.com/in/jorge-l%C3%B3pez-su%C3%A1rez-6208682b1/)
-
-
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jorge-l%C3%B3pez-su%C3%A1rez-6208682b1/)
